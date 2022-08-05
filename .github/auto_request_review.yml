@@ -6,7 +6,9 @@ reviewers:
   # Reviewer groups each of which has a list of GitHub usernames
   groups:
     repository-owners:
+      - TheFoxAtWork
     supply-chain-security-reviewers:
+      - mnm678
     whitepaper-reviewers:
       - TheFoxAtWork
     assessments-reviewers:
