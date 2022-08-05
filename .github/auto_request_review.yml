@@ -6,10 +6,10 @@ reviewers:
   # Reviewer groups each of which has a list of GitHub usernames
   groups:
     repository-owners:
-      - pushkarj
+      - TheFoxAtWork
     supply-chain-security-reviewers:
     whitepaper-reviewers:
-      - pushkarj
+      - TheFoxAtWork
     assessments-reviewers:
 
 files:
